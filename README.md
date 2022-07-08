@@ -1,5 +1,4 @@
-# Predicting new hire Salary using Machine Learning
-
+# Predicting new hire Salary using Linear Regression
 This notebook looks into using linear regression in an attempt to build a machine learning model capable of predicting a new employee's salary based on their years of experience. 
 
 This is a simple data where dataset where I utilized linear regression algorithm to obtain our objective.
